@@ -74,7 +74,7 @@ Open `index.html` in your web browser to view the website.
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project.
 
-- **Email**: [bibhukalyan@example.com](mailto:bibhukalyan@example.com)
+- **Email**: [bibhukalyan@example.com](mailto:bibhukalyannayak6@gmail.com)
 - **LinkedIn**: [Bibhukalyan Nayak](https://www.linkedin.com/in/bibhukalyan-nayak-748789247)
 - **GitHub**: [BIBHU78150](https://github.com/BIBHU78150)
 - **Instagram**: [@the_genius_coder](https://www.instagram.com/the_genius_coder)
