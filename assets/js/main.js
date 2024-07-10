@@ -30,7 +30,7 @@ modalClose.forEach((mc) => {
   });
 });
 /*Nav Icons Animation Bug Fix */
-/*const navLinks = document.querySelectorAll('.nav__link');
+const navLinks = document.querySelectorAll('.nav__link');
 let isScrolling = false;
 
 // Handle scroll event
@@ -75,7 +75,7 @@ navLinks.forEach((link) => {
     setTimeout(onScrollComplete, 500); // Adjust delay as needed for smooth scroll duration
   });
 });
-*/
+
 
 /*=============== MIXITUP FILTER PORTFOLIO ===============*/
 let mixerPortfolio = mixitup('.work__container' , {
